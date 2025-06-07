@@ -1,2 +1,4 @@
 # ATM Machine (C# Console)Simulates ATM operations: 
-balance check, withdrawal, deposit, and account summary.
+Simulates basic ATM operations with balance check, deposit/withdrawal logic, and PIN verification.
+
+
